@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remap_Day6_LinkedListPracticeProblem", "Remap_Day6_LinkedListPracticeProblem\Remap_Day6_LinkedListPracticeProblem.csproj", "{007096B9-5AE3-446F-A6E8-57BC88D9B321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007096B9-5AE3-446F-A6E8-57BC88D9B321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007096B9-5AE3-446F-A6E8-57BC88D9B321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007096B9-5AE3-446F-A6E8-57BC88D9B321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007096B9-5AE3-446F-A6E8-57BC88D9B321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABACA41A-89A4-4C8C-B242-2AEBA0C571D7}
+	EndGlobalSection
+EndGlobal
